@@ -94,11 +94,13 @@ El trabajo permitió practicar el flujo de colaboración mediante **fork → clo
 
 Aquí colocaré posteriormente una captura de pantalla del proyecto funcionando:
 
-> **[Insertar aquí la imagen del proyecto]**
+![Captura del proyecto](../img/captura2.png)
 
 La imagen debe guardarse dentro del repositorio y agregarse mediante una ruta relativa, por ejemplo:
 
-insertar imagen....
+```markdown
+![Proyecto funcionando](../img/captura2.png)
+```
 
 ## Enlace externo
 
